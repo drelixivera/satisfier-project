@@ -1386,7 +1386,7 @@ section {
 #reservation {
   background: var(--light);
   height: auto;
-  min-height: 1400px;
+  min-height: 1800px;
   padding-top: 60px;
   padding-bottom: 60px;
 }
